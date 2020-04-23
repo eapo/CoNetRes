@@ -5,6 +5,17 @@
 
 ---
 
+## Features
+
+- Using *CoNetRes* any community member can start multiple virtual communities and define tags as references to be able to connect globally through matching.
+- Using *CoNetRes* anyone can share and request any kind of resources anonymously within their communities and/or make publicly available in the name of the community.
+
+`✌ cross-platform document-oriented database editor with higly customizable predefined templates`
+
+---
+
+## Story
+
 I came up with this idea when I realized:
 > The globally **failing *economic*, *political* and *social institutions*** induce bottom-up collaborations, because fixing our problems from above **does not provide lasting solutions** to our needs anymore.
 
