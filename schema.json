@@ -1,0 +1,30 @@
+// can be validated by [Hjson, a user interface for JSON](https://hjson.github.io/try.html)
+{
+  "form": {
+        "action": "./",
+        "submit": "", # submit:value
+        "method": "", #get|post
+        "autocomplete":0,
+        "name": "",
+        "title": "",  # "markdown text"
+        "ajax": 0,
+        "lang": "en-en",
+        "description": "",  # "markdown text"
+        "thankyou": "", # "markdown text"|"URL"
+        "e": [  # elements
+           {"label": ["",1],  # "<label> string",1:visible|0:"class=hidden"|2:"class=inline-block"
+            "name":1,  # 1:generated from label|
+            "id":1, # 1:generated from name|"string"|8:random
+            "class":[],
+            "type": "text", # button|checkbox|color|date|datetime-local|email|file|hidden|image|month|number|password|radio|range|reset|search|submit|tel|text|time|url|week|gdpr|terms(predefined multi_lang HTML element)
+            "options": "",  # disabled|default|resizable|autofocus|readonly|required|wrap:soft|
+            "size": [-1,100,3], # [maxlength,col,row]
+            "description": "", # "markdown text"
+            "value": "", # "default value"|0:disabled|1:true|[{"",1:selected}]:radio|select
+            "placeholder":1,   # 0:false|1:true
+            "markdown":{"file":"terms.md","position":1}, # load .md file -1:above|0:value|1:below
+            "accesskey": "A",
+          }
+        ]
+    }
+}
