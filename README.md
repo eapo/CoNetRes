@@ -1,11 +1,11 @@
-# :sunflower: ***CoNetRes*** the independent *Community Network Resource Mapping* toolkit
+# 🌻 ***CoNetRes*** the independent *Community Network Resource Mapping* toolkit
 *Community Network Resource Mapping* software provides a big picture of the **supply**, **support**, and **aid** **capacity** and **needs** of a community, to support effective and efficient collaboration.
 
 [Collaborative documentation](http://oszt.6od.hu/en) & [presentation](https://hackmd.io/@eaposztrof/rJa8JEy_8)
 
 ---
 
-## :star: Features
+## ⭐ Features
 
 - Using *CoNetRes* any community member can start multiple virtual communities and define tags as references to be able to connect globally through matching.
 - Using *CoNetRes* anyone can share and request any kind of resources anonymously within their communities and/or make publicly available in the name of the community.
@@ -14,7 +14,7 @@
 
 ---
 
-## :fire: Story
+## 🔥 Story
 
 I came up with this idea when I realized:
 > The globally **failing *economic*, *political* and *social institutions*** induce bottom-up collaborations, because fixing our problems from above **does not provide lasting solutions** to our needs anymore.
@@ -28,7 +28,7 @@ Example: Local farmers can map and share their available machinery and ask for u
 
 ---
 
-## :hammer_and_wrench: Development
+## 🛠️ Development
 *CoResNet* is an **open-source toolkit** for *independent communities* to be able **to articulate the needs and share available resources** in a secure and trustworthy way.
 
 > We are open for any kind of support to have this software available to any community around the world!
@@ -41,11 +41,11 @@ Example: Local farmers can map and share their available machinery and ask for u
 4. The main language is `JavaScript` with `node.js` and `Vue.js`, using `JSON`, `HTML5`, `CSS`.
 5. Source code is published on [GitHub](https://github.com/eapo/CoNetRes/)
 
-## :atom_symbol: Contact
-- :e-mail: [<i class="fa fa-envelope fa-fw"></i>coop<i class="fa fa-at"></i>:monkey:valto.ro](mailto:coop@valto.ro)
-- :speech_balloon:	[<i class="fa fa-comments fa-fw"></i> #I2We20 @discord](https://discord.gg/4nAz5vP)
-- :octocat: [<i class="fa fa-github fa-fw"></i> eapo/CoNetRes](https://github.com/eapo/CoNetRes)
+## ⚛️ Contact
+- 📧 [<i class="fa fa-envelope fa-fw"></i>coop<i class="fa fa-at"></i>🐒valto.ro](mailto:coop@valto.ro)
+- 💬 [<i class="fa fa-comments fa-fw"></i> #I2We20 @discord](https://discord.gg/4nAz5vP)
+- 🐱 [<i class="fa fa-github fa-fw"></i> eapo/CoNetRes](https://github.com/eapo/CoNetRes)
 
 ---
 
-<small><i class="fa fa-globe fa-fw"></i> :globe_with_meridians: [Resources.CollaborativeSociety.EU](http://resources.collaborativesociety.eu/) | :tv: [<i class="fa fa-desktop fa-fw"></i> presentation](https://hackmd.io/@eaposztrof/rJa8JEy_8) | :bird: [<i class="fa fa-rss fa-fw"></i> Murmuration](http://oszt.6od.hu/d/murmurations_node.json)</small>
+<small><i class="fa fa-globe fa-fw"></i> 🌐 [Resources.CollaborativeSociety.EU](http://resources.collaborativesociety.eu/) | 📺 [<i class="fa fa-desktop fa-fw"></i> presentation](https://hackmd.io/@eaposztrof/rJa8JEy_8) | 🐦 [<i class="fa fa-rss fa-fw"></i> Murmuration](http://oszt.6od.hu/d/murmurations_node.json)</small>
