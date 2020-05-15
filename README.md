@@ -35,6 +35,10 @@
 - OAuth as secure delegated access,
 - cryptographic hash function with mnemonic
 
+### Use case
+
+![simple-use-case-diagram.svg](https://raw.githubusercontent.com/eapo/CoNetRes/master/simple-use-case-diagram.svg)
+
 ---
 
 ## 🔥 Story
