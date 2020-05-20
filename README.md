@@ -1,17 +1,22 @@
-##### tags: `#COVID19` `#I2We20` `#HacktheCrisis` `#save_communities` `#EUvsVirus` `#COVIDathon` `#cohesion` `#community` `#cooperation` `#collaboration` `#efficiency` `#permaculture` `#sustainability` `#eco-friendly` `#self-sufficient` `#cryptography` `#holochain` `#DID` `#DAC`
+##### tags: `#COVID19` `#I2We20` `#HacktheCrisis` `#save_communities` `#EUvsVirus` `#COVIDathon` `#cohesion` `#community` `#cooperation` `#collaboration` `#efficiency` `#permaculture` `#sustainability` `#eco-friendly` `#self-sufficient` `#cryptography` `#holochain` `#DID` `#DAC` `ML` `Ai`
 
 # 🌻 ***CoNetRes*** the independent *Community Network Resource Mapping* toolkit
 *Community Network Resource Mapping* software it's a toolkit that provides a big picture of the **supply**, **support**, and **aid** **capacity and needs** of a community, to support effective and efficient **collaboration** inside and between communities.
 
 <a href="https://devpost.com/software/i2we20-community-network-resource-mapping-toolkit-dev" target="_blank"><img style="margin: 0 auto; text-align:center;" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" height="42" /></a>
 
-
 ---
 
 ## ⭐ Features
+Using *CoNetRes* anyone can share and request any kind of resources in a secure way within their communities and/or make publicly available.
 
-- Using *CoNetRes* any community member can start multiple virtual communities and define tags as references to be able to connect globally through matching.
-- Using *CoNetRes* anyone can share and request any kind of resources anonymously within their communities and/or make publicly available in the name of the community.
+- Data collection with [*Sociocybernetic methods*](https://www.sciencedirect.com/topics/computer-science/constructivist-approach#B9780080970868321407-s0035)
+- Highly customizable queries
+- Secure profiles (Anonymous by default) with [decentralized identity and access management](https://iop-stack.iop.rocks/dids-and-claims/specification/#/dac)
+- [Progressive Web Application](https://en.wikipedia.org/wiki/Progressive_web_application) on all digital platforms, with offline mode and push notifications
+- Create Multiple personas
+- Create Multiple communities
+- [P2P](https://en.wikipedia.org/wiki/Social_peer-to-peer_processes) communication on secure channels
 
 `✌ cross-platform document-oriented database editor with higly customizable predefined templates`
 
@@ -51,7 +56,9 @@ We need secure tools and effective methods for **efficient allocation of resourc
 We started to develop an open-source **resource mapping solution** done in an *independent* and *collaborative* way, with *anonymous data collection* and *secure information management*, which are key roles today! We are developing a **highly customizable open-source toolkit** for this.
 
 In a *collaborative society* all *independent communities* need to have any resources to **do their best** and be able to communicate **without boundaries** in a secure way.
-Example: Local farmers can map and share their available machinery and ask for unused organic materials, then others farmers doesn't need to buy and maintain those expensive tools and can give back materials to increase fertility. In the same time a small gardener will know where to go for a good compost and where to send her kids to learn about growing food.
+
+### Example A
+Local farmers can map and share their available machinery and ask for unused organic materials, then others farmers doesn't need to buy and maintain those expensive tools and can give back materials to increase fertility. In the same time a small gardener will know where to go for a good compost and where to send her kids to learn about growing food.
 
 ---
 
