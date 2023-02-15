@@ -1,9 +1,12 @@
 ##### tags: `#COVID19` `#I2We20` `#HacktheCrisis` `#save_communities` `#EUvsVirus` `#COVIDathon` `#cohesion` `#community` `#cooperation` `#collaboration` `#efficiency` `#permaculture` `#sustainability` `#eco-friendly` `#self-sufficient` `#cryptography` `#holochain` `#DID` `#DAC` `ML` `Ai`
 
+**One of the most advanced version of #CoNetRes inspiredapplication for now: [DeCentral-Budapest/altruist-platform-meteor: Toolkit for Decentralized Federated Collaborative Economy](https://github.com/alTRUEco)**
+
+
 # 🌻 ***CoNetRes*** the independent *Community Network Resource Mapping* toolkit
 *Community Network Resource Mapping* software it's a toolkit that provides a big picture of the **supply**, **support**, and **aid** **capacity and needs** of a community, to support effective and efficient **collaboration** inside and between communities.
 
-<a href="https://devpost.com/software/i2we20-community-network-resource-mapping-toolkit-dev" target="_blank"><img style="margin: 0 auto; text-align:center;" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" height="42" /></a>
+<a href="https://devpost.com/software/i2we20-community-network-resource-mapping-toolkit-dev" target="_blank"><img style="margin: 0 auto; text-align:center;" src="https://q9k6x7m8.stackpathcdn.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" height="42" /></a>
 
 ---
 
